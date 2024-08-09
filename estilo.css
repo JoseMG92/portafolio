@@ -270,13 +270,13 @@ html{
     font-size: 14px;
 }
 /* Estas clases se agregaran dinamicamente mediante javascript */
-.skills .skill .javascript{
+.skills .skill .java{
     width: 0%;
-    animation: 2s javascript forwards;
+    animation: 2s java forwards;
 }
-@keyframes javascript {
+@keyframes java {
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 55%;}
 }
 
 .skills .skill .htmlcss{
@@ -285,43 +285,43 @@ html{
 }
 @keyframes htmlcss {
     0%{width: 0%;}
-    100%{width: 89%;}
+    100%{width: 50%;}
 }
 
-.skills .skill .photoshop{
+.skills .skill .python{
     width: 0%;
-    animation: 2s photoshop forwards;
+    animation: 2s python forwards;
 }
-@keyframes photoshop {
-    0%{width: 0%;}
-    100%{width: 95%;}
-}
-
-.skills .skill .wordpress{
-    width: 0%;
-    animation: 2s wordpress forwards;
-}
-@keyframes wordpress {
-    0%{width: 0%;}
-    100%{width: 81%;}
-}
-
-.skills .skill .drupal{
-    width: 0%;
-    animation: 2s drupal forwards;
-}
-@keyframes drupal {
+@keyframes python {
     0%{width: 0%;}
     100%{width: 55%;}
 }
 
-.skills .skill .comunicacion{
+.skills .skill .sql{
     width: 0%;
-    animation: 2s comunicacion forwards;
+    animation: 2s sql forwards;
 }
-@keyframes comunicacion {
+@keyframes sql {
     0%{width: 0%;}
-    100%{width: 80%;}
+    100%{width: 60%;}
+}
+
+.skills .skill .office{
+    width: 0%;
+    animation: 2s office forwards;
+}
+@keyframes office {
+    0%{width: 0%;}
+    100%{width: 60%;}
+}
+
+.skills .skill .capacidad_analisis{
+    width: 0%;
+    animation: 2s capacidad_analisis forwards;
+}
+@keyframes capacidad_analisis {
+    0%{width: 0%;}
+    100%{width: 60%;}
 }
 
 .skills .skill .trabajo{
@@ -330,7 +330,7 @@ html{
 }
 @keyframes trabajo {
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 60%;}
 }
 
 .skills .skill .creatividad{
