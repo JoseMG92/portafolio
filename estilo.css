@@ -330,25 +330,25 @@ html{
 }
 @keyframes trabajo {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 70%;}
 }
 
-.skills .skill .creatividad{
+.skills .skill .pensamiento_critico{
     width: 0%;
-    animation: 2s creatividad forwards;
+    animation: 2s pensamiento_critico forwards;
 }
-@keyframes creatividad {
+@keyframes pensamiento_critico {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width: 70%;}
 }
 
-.skills .skill .dedicacion{
+.skills .skill .adaptacion{
     width: 0%;
-    animation: 2s dedicacion forwards;
+    animation: 2s adaptacion forwards;
 }
-@keyframes dedicacion {
+@keyframes adaptacion {
     0%{width: 0%;}
-    100%{width: 65%;}
+    100%{width: 70%;}
 }
 
 .skills .skill .proyect{

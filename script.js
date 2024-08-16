@@ -28,8 +28,8 @@ function efectoHabilidades(){
         habilidades[4].classList.add("office");
         habilidades[5].classList.add("capacidad_analisis");
         habilidades[6].classList.add("trabajo");
-        habilidades[7].classList.add("creatividad");
-        habilidades[8].classList.add("dedicacion");
+        habilidades[7].classList.add("pensamiento_critico");
+        habilidades[8].classList.add("adaptacion");
         habilidades[9].classList.add("proyect");
     }
 }
